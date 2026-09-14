@@ -28,4 +28,10 @@
   </Folder>
 =======
 
+
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.ByachkovaVD.Spint0.Task6.V0.Lib/Tyuiu.ByachkovaVD.Spint0.Task6.V0.Lib.csproj" Id="716c3ae4-1435-4bfc-8479-2ae030f13f16" />
+    <Project Path="Tyuiu.ByachkovaVD.Spint0.Task6.V0.Test/Tyuiu.ByachkovaVD.Spint0.Task6.V0.Test.csproj" Id="9941e950-81ff-4282-8087-b0ba38eefb53" />
+    <Project Path="Tyuiu.ByachkovaVD.Spint0.Task6.V0/Tyuiu.ByachkovaVD.Spint0.Task6.V0.csproj" Id="854ab8e9-2513-4fed-b7cb-ea5efb59e405" />
+  </Folder>
 </Solution>
